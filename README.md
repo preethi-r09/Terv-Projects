@@ -3,7 +3,7 @@
 # 📚 Library Catalog Management System
 
 📝 
-The Library Catalog Management System is a simple, command-line Java application designed to help manage a collection of books in a library. Developed for the TERV Company, this system allows librarians or users to perform basic library operations such as adding new books, searching for books by title, issuing books, and viewing the complete catalog.
+The Library Catalog Management System is a simple, command-line Java application designed to help manage a collection of books in a library. This system allows librarians or users to perform basic library operations such as adding new books, searching for books by title, issuing books, and viewing the complete catalog.
 
 This project serves as an introduction to Object-Oriented Programming (OOP) in Java, emphasizing real-world modeling with classes and objects. It's ideal for educational purposes, beginner Java developers, or as a base system for more advanced library software.
 
